@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>tofilagman</authors>
+    <owners>tofilagman</owners>
+    <description>Web Utility and Helper Simplified</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Web Client Extension Helper Network</tags>
+  </metadata>
+</package>
